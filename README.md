@@ -1,6 +1,6 @@
 <h1> Hola! This is Hetal Vasaikar</h1>
 
- 👩🏻‍💻 A Full stack Developer and. . . . . . . . . . . Growing<br>
+ 👩🏻‍💻 A Web Developer and. . . . . . . . . . . Growing<br>
 💥 Making my today so awasome that yesterday gets jealous.<br>
 💻 Tools & Technologies: HTML, CSS, JavaScript, Bootstrap, Wordpress, Node.JS, C#, .NET, SQL, MongoDB, Express.JS and much more...<br>
 ✨ Check out all the repositories and star your favourite one.😁<br>
